@@ -1,3 +1,7 @@
+// Producto de ZACETREX TECHNOLOGIES S.A.C
+// Este código se hizo con fin de compartirlo con la comunidad y tiene fines educativos
+// Más códigos en zacetrex.com
+
 // ---------------------------
 // Definición de pines del L298N
 // ---------------------------
