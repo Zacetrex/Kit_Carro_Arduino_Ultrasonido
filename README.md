@@ -6,5 +6,5 @@
 
 #### Tutorial Completo en [Zacetrex](http://zacetrex.com)
 
-![](https://zacetrex.com/wp-content/uploads/2025/03/Kit-de-Carro-Evasor-de-Obstaculos.png)
-![](https://zacetrex.com/wp-content/uploads/2025/03/Kit-BMS-2S.png)
+![](https://zacetrex.com/wp-content/uploads/2025/11/Kit-Carro-Obstaculos.png)
+![](https://zacetrex.com/wp-content/uploads/2025/11/Kit-de-Baterias.png)
